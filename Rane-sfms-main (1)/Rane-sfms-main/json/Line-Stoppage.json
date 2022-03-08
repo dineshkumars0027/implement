@@ -1,0 +1,80 @@
+[
+    {
+
+        "module":"P4:LCV",
+        "type":"Safety",
+        "machineName":"GH SOCKET",
+        "employee":"8288/Gowtham",
+        "details":"Nivas",
+        "shop":"P4_Shop_1",
+        "line":"SOCKET",
+        "services":"BREAK DOWN",
+        "reasonCode":"Near miss improper cable"
+    },
+    {
+
+        "module":"P4:B615",
+        "type":"Method",
+        "machineName":"ROBOT HYN WIA 3-B/P",
+        "employee":"8288/Nivas ",
+        "details":"Nivas",
+        "shop":"P4_Shop_2",
+        "line":"BallPIN",
+        "services":"BREAK DOWN",
+        "reasonCode":"Rejection bin not available"
+        
+
+    },
+    {
+
+        "module":"P4:LCV",
+        "type":"Safety",
+        "machineName":"GH SOCKET",
+        "employee":"8288/Gowtham",
+        "details":"Nivas",
+        "shop":"P4_Shop_1",
+        "line":"SOCKET",
+        "services":"BREAK DOWN",
+        "reasonCode":"Near miss improper cable"
+    },
+    {
+
+        "module":"P4:B615",
+        "type":"Method",
+        "machineName":"ROBOT HYN WIA 3-B/P",
+        "employee":"8288/Nivas ",
+        "details":"Nivas",
+        "shop":"P4_Shop_2",
+        "line":"BallPIN",
+        "services":"BREAK DOWN",
+        "reasonCode":"Rejection bin not available"
+
+
+    },
+    {
+
+        "module":"P4:LCV",
+        "type":"Safety",
+        "machineName":"GH SOCKET",
+        "employee":"8288/Gowtham",
+        "details":"Nivas",
+        "shop":"P4_Shop_1",
+        "line":"SOCKET",
+        "services":"BREAK DOWN",
+        "reasonCode":"Near miss improper cable"
+    },
+    {
+
+        "module":"P4:B615",
+        "type":"Method",
+        "machineName":"ROBOT HYN WIA 3-B/P",
+        "employee":"8288/Nivas ",
+        "details":"Nivas",
+        "shop":"P4_Shop_2",
+        "line":"BallPIN",
+        "services":"BREAK DOWN",
+        "reasonCode":"Rejection bin not available"
+
+
+    }
+]
